@@ -1,4 +1,5 @@
-# S istema de cadastro de jogos #
+# S
+istema de cadastro de jogos #
 
 >Status do projetos: Em desenvolvimento
 
